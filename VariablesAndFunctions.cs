@@ -10,7 +10,7 @@ public class VariablesAndFunctions : MonoBehaviour
     {
         myInt = MultiplyByTwo(myInt);
         Debug.Log(myInt);
-	}
+    }
     int MultiplyByTwo(int number)
     {
         int ret;
